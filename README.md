@@ -14,7 +14,10 @@
 
 </p>
 
-**An educational project by *Sadra Hatami***
+**
+An educational project by
+*Sadra Hatami*
+**
 
 [🌐 Live Demo](https://sadra-hatami.github.io/Prompt_Builder_Website/) •
 [🐞 Report Bug](../../issues) •
