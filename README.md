@@ -4,7 +4,7 @@
 
 ### The Ultimate HTML Reference Website
 
-A comprehensive HTML encyclopedia documenting the complete evolution of HTML—from classic elements to the latest HTML5 standard, including deprecated and obsolete tags.
+A modern HTML encyclopedia documenting the complete evolution of HTML—from classic elements to the latest HTML5 standard, including deprecated and obsolete tags.
 
 <br>
 
@@ -14,13 +14,19 @@ A comprehensive HTML encyclopedia documenting the complete evolution of HTML—f
 
 <br>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Live-blue?style=for-the-badge&logo=github)
+<p>
 
-<br><br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-blue?style=for-the-badge\&logo=github)
+
+</p>
+
+**Designed & Developed by Sadra Hatami**
+
+<br>
 
 [🌐 Live Demo](https://sadra-hatami.github.io/HTML-Encyclopedia-Website/) •
 [🐞 Report Bug](../../issues) •
@@ -32,54 +38,58 @@ A comprehensive HTML encyclopedia documenting the complete evolution of HTML—f
 
 # 📖 About
 
-HTML Encyclopedia is a comprehensive educational website created as a complete reference for HTML.
+**HTML Encyclopedia** is a comprehensive educational website designed to serve as a complete reference for HTML.
 
-Unlike traditional HTML tutorials, this project documents the entire evolution of HTML—from the earliest elements to the latest HTML5 standard, including deprecated and obsolete tags.
+Unlike traditional HTML tutorials, this project documents the entire evolution of HTML—from the earliest elements to the latest HTML5 standard—including common, rare, deprecated, and obsolete HTML tags.
 
 Each documented HTML element includes:
 
-- 📌 Detailed explanation
-- 🏷️ Complete attribute reference
-- 💡 Practical examples
-- 📖 Usage notes
-- ✅ Best practices
+* 📌 Detailed explanations
+* 🏷️ Complete attribute references
+* 💡 Practical code examples
+* 📖 Usage notes
+* ✅ Best practices
 
-Whether you're learning HTML for the first time or looking for a professional reference, this project is designed to be your all-in-one resource.
+Whether you are learning HTML for the first time or searching for a reliable reference, HTML Encyclopedia is designed to be an all-in-one educational resource.
 
 ---
 
 # ✨ Features
 
-- 📚 24 comprehensive chapters
-- 🏷️ 150+ documented HTML elements
-- 🧩 Complete attribute reference
-- 💡 Extensive practical examples
-- ⚠️ Deprecated & obsolete HTML elements
-- 🔎 Easy navigation
-- 📱 Responsive design
-- 🎨 Modern user interface
-- ⚡ Fast and lightweight
-- 📖 Suitable for beginners and experienced developers
+* 📚 Well-organized educational content
+* 🏷️ Comprehensive HTML element documentation
+* 🧩 Complete attribute references
+* 💡 Practical code examples
+* ⚠️ Deprecated & obsolete HTML elements
+* 🔍 Easy navigation
+* 🎨 Modern dark user interface
+* 📱 Responsive design
+* ⚡ Lightweight & fast
+* 📖 Suitable for students and professional developers
 
 ---
 
 # 🎯 Why HTML Encyclopedia?
 
-Unlike most HTML tutorials that focus only on commonly used elements, HTML Encyclopedia documents the complete history of HTML in one place.
+Most HTML tutorials focus only on commonly used elements.
 
-This project serves both as a learning platform and a professional reference for web developers.
+HTML Encyclopedia goes further by documenting the complete history of HTML in one place—from obsolete tags to the latest HTML5 features.
+
+The goal of this project is to provide an educational resource that is both easy to learn from and useful as a professional reference.
 
 ---
 
 # 🛠️ Built With
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla JS)
+* HTML5
+* CSS3
+* Vanilla JavaScript
 
 ---
 
 # 🚀 Live Demo
+
+### Website
 
 https://sadra-hatami.github.io/HTML-Encyclopedia-Website/
 
@@ -98,31 +108,33 @@ HTML-Encyclopedia-Website/
 
 # 🎓 Target Audience
 
-- Students
-- Beginner Web Developers
-- Front-end Developers
-- Self-learners
-- Anyone looking for a complete HTML reference
+* Students
+* Beginner Web Developers
+* Front-end Developers
+* Self-learners
+* Anyone interested in HTML
 
 ---
 
 # 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
 
 ---
 
 # © Copyright
 
-© 2026 Sadra Hatami. All rights reserved.
+© 2026 **Sadra Hatami**
 
-The source code, website design, and educational content of this project are protected by copyright.
+All rights reserved.
+
+The source code, educational content, website structure, and overall design of this project are protected by copyright.
 
 ---
 
 # 🤝 Contributing
 
-Contributions, suggestions, bug reports, and feature requests are welcome.
+Contributions, suggestions, bug reports, and feature requests are always welcome.
 
 Feel free to open an Issue or submit a Pull Request.
 
@@ -130,9 +142,9 @@ Feel free to open an Issue or submit a Pull Request.
 
 # 📬 Contact
 
-**Sadra Hatami**
+### Sadra Hatami
 
-📧 Email: sadra.hatami.1732@gmail.com
+📧 Email: **[sadra.hatami.1732@gmail.com](mailto:sadra.hatami.1732@gmail.com)**
 
 ---
 
@@ -140,12 +152,12 @@ Feel free to open an Issue or submit a Pull Request.
 
 If you found this project useful, please consider giving it a ⭐ on GitHub.
 
-Your support motivates future improvements and helps more developers discover the project.
+Your support helps the project reach more developers and encourages future improvements.
 
 ---
 
 <div align="center">
 
-### Developed with ❤️ by **Sadra Hatami**
+## ❤️ Developed with passion by **Sadra Hatami**
 
 </div>
